@@ -61,7 +61,7 @@
 
 可视化图片：
 
-![avatar](https://github.com/wow-127/wow1/blob/master/2019930201358031.jpg)
+![avatar](https://github.com/wow-127/wow1/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%961.png)
 
 #数据搜集记录及感想
 
