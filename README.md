@@ -1,22 +1,59 @@
-#wow3（week3）
-##Kaggle公开数据集：LGBT_Survey_DailyLife
+# wow3（week3）
+## Kaggle公开数据集：LGBT_Survey_DailyLife
 
 链接：https://www.kaggle.com/ruslankl/european-union-lgbt-survey-2012
 
 数据集说明：FRA（基本权利局）进行了一项在线调查，以确定居住在欧洲联盟和克罗地亚的女同性恋，男同性恋，双性恋和变性者（LGBT）人如何体验其基本权利的实现。调查产生的证据将支持制定更有效的法律和政策，以打击歧视，暴力和骚扰，改善全社会的平等待遇。在2009年第一份FRA报告关于基于性取向或性别认同的恐同症和歧视的FRA报告之后，这种在整个欧盟范围内进行调查的需求变得显而易见，因为该报告强调了缺乏可比数据。然后，欧盟委员会要求FRA收集整个欧盟在此问题上的可比数据。 FRA以在线调查的形式组织了数据收集，涵盖了所有欧盟成员国和克罗地亚。受访者年龄在18岁以上，并且匿名地将自己标识为女同性恋，男同性恋，双性恋或变性者。该调查已于2012年4月至7月在线提供所有23种欧盟官方语言（爱尔兰除外）以及加泰罗尼亚语，克罗地亚语，卢森堡语，俄语和土耳其语的可用信息。共有93,079名LGBT人员完成了调查。 FRA内部专家设计了这项调查，该调查由盖洛普（Gallup）实施，盖洛普是大规模调查的市场领导者之一。此外，包括ILGA-欧洲（欧洲国际女同性恋，男同性恋，双性恋，跨性别者和跨性别者协会地区）和跨性别者欧洲组织（TGEU）在内的民间社会组织提供了有关如何以最佳方式对待LGBT人群的建议。
 
-##数据处理说明：
+## 数据处理说明：
 
 本次我主要就样本的“CountryCode”和“subset：Bisexual men、	Bisexual women、	Gay	Lesbian、	Transgender”两个基本属性进行了分析，即各个国家或地区的样本中LGBT的具体分布。
 
-##使用工具及使用体会：
+## 使用工具及使用体会：
 
-Excel：
-数据透视表：
+### Excel：
 
+- 数据透视表：
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/1.png)
+
+- 可视化呈现：面积堆叠图and条形堆叠图
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/2.png)
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/3.png)
+
+- 使用体会：
+Excel:生成条形堆叠图and面积堆叠图
+
+* 优点:使用Excel最直观的感受是它很方便数据分析，在分析过程中利用<b>数据透视表</b>，得到想要的数据列表。在可视化方面，Excel可以直接根据数据生成图表，得到直观的可视化图片，也可根据具体内容设计图表、标题等。
+* 缺点:可视化的图表不够美观，配色和图表形式缺乏美感；且可以可视化的图表类型并不多，都是最基本的折线图、条形图等。本次可视化呈现，在Excel里能比较好呈现的便是堆积条形图。
+
+### tableau（国外）:
+
+- 可视化呈现：矩形树图
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/4.png)
+
+- 使用体会：
+使用tableau生成矩形树图，这是我首次使用这个可视化工具，直观感受是这个工具好强大
+
+* 优点：
+* 缺点：
+
+### Hanabi
+
+- 可视化呈现：桑基图
+
+![image](https://github.com/wow-127/Week1-zuoye/blob/master/5.jpg)
+
+- 使用体会
+
+* 优点
+* 缺点
 
 # wow2（week2）
-# 我国有哪些关于公共数据开放的条例或法规？
+<details><summary>说明文字</summary>
+  # 我国有哪些关于公共数据开放的条例或法规？
 ## 1.《上海市公共数据开放暂行办法》
 信源：上海市人民政府网站
 
@@ -141,6 +178,7 @@ Excel：
 可视化呈现：
 ![image](https://github.com/wow-127/Week1-zuoye/blob/master/4626938b4e491b52c3fc435e1eb2566.png)
 
+</details>
 
 # wow(week1)
 ## 作业1-个人数据及手绘图片
