@@ -1,4 +1,56 @@
 # wow5（week5）
+## 图一
+### 原图：
+
+### R生成图：
+
+### 实现代码：
+> install.packages("ggplot2")
+
+> library(ggplot2)
+
+> install.packages("readxl")
+
+> library(readxl)
+
+> install.packages("gcookbook")
+
+> library(gcookbook)
+
+> wuao <- read_excel("laji1.xlsx")
+
+> View(wuao)
+
+> wuao1<-wuao
+
+> wuao1$year <- factor(wuao1$year)
+
+> ggplot(wuao1, aes(x = year, y = Number, group = type, colour = type)) + geom_line() + geom_point(size = 2, colour = "red", fill = "red") + ggtitle("“未成年人犯罪”文献发表2013年达顶峰  近几年对“刑事责任年龄”关注度有所提高")
+
+## 图二
+### 原图
+### R生成图
+### 实现代码
+> install.packages("ggplot2")
+
+> library(ggplot2)
+
+> install.packages("readxl")
+
+> library(readxl)
+
+> install.packages("hpackedbubble")
+
+> library(hpackedbubble)
+
+> wow <- read_excel("laji1.xlsx")
+
+> View(wow)
+
+> hpackedbubble(cat = wow$分类, value = wow$数量, name = wow$标签, packedbubbleMaxSize = "150%", split = 0, title="20年来学者对“未成年人犯罪”的关注集中在“预防”“原因”“对策”")
+
+
+# wow5（week5）
 <details><summary>第五次作业</summary>
 
 ## 图文呈现
