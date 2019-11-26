@@ -35,6 +35,7 @@
 ### 原图
 ![image](https://github.com/wow-127/wow1/blob/master/%E4%BA%8C%E5%9B%BE1.png)
 ### R生成图（可交互）
+![image](https://github.com/wow-127/wow1/blob/master/2sele.png)
 https://wow-127.rstudio.cloud/8bc0adcabeea4765889e485127a2be84/file_show?path=%2Fcloud%2Fproject%2Fererer.html
 ### 实现代码
 > install.packages("ggplot2")
