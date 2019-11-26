@@ -1,9 +1,11 @@
-# wow5（week5）
+# wow9（week9）
 ## 图一
+### 源数据
+![image](https://github.com/wow-127/wow1/blob/master/lese1.png)
 ### 原图：
-
+![image](https://github.com/wow-127/wow1/blob/master/%E4%B8%80%E5%9B%BE3.png)
 ### R生成图：
-
+![image](https://github.com/wow-127/wow1/blob/master/1sele.png)
 ### 实现代码：
 > install.packages("ggplot2")
 
@@ -28,6 +30,8 @@
 > ggplot(wuao1, aes(x = year, y = Number, group = type, colour = type)) + geom_line() + geom_point(size = 2, colour = "red", fill = "red") + ggtitle("“未成年人犯罪”文献发表2013年达顶峰  近几年对“刑事责任年龄”关注度有所提高")
 
 ## 图二
+### 源数据
+![image]()
 ### 原图
 ### R生成图
 ### 实现代码
