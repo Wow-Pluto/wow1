@@ -82,7 +82,7 @@
 [6]河南省政府网站、河南省教育厅*
 
 #### 数据来源：
-[1]全国学生资助管理中心：2007~2018年《中国学生资助发展报告》
+[1]全国学生资助管理中心：2007-2018年《中国学生资助发展报告》
 http://www.xszz.cee.edu.cn/index.php/lists/70.html
 [2]国家开发银行：2010~2018年《国家开发银行年报》
 http://www.cdb.com.cn/gykh/ndbg_jx/2018_jx/
@@ -100,7 +100,7 @@ http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_zwgk/zwgk_jytj/
 #### 参考资料：
 [1]全国学生资助管理中心：2007~2018年《中国学生资助发展报告》
 http://www.xszz.cee.edu.cn/index.php/lists/70.html
-[2]国家开发银行：2010~2018年《国家开发银行年报》
+[2]国家开发银行：2010-2018年《国家开发银行年报》
 http://www.cdb.com.cn/gykh/ndbg_jx/2018_jx/
 [3]中国人民银行：《2018年中国人民银行年报》
 http://www.pbc.gov.cn/chubanwu/114566/115296/index.html
@@ -115,12 +115,12 @@ https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filenam
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=KJWZ201709058&v=MTMwOTk4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVplUnVGaWprVTc3T0xpZmNkTEc0SDliTXBvOUFiSVI=
 [9]宋振,翟居怀.主体行为视角下河南国家助学贷款“双轮驱动”模式运行策略[J].征信,2019,37(09):85-88.
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=HNJG201909017&v=MTc2OTF1RmlubVY3elBMU1BCYWJHNEg5ak1wbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=
-[10]教育部：2010~2018年《本专科生国家奖学金获奖学生名单》
+[10]教育部：2010-2018年《本专科生国家奖学金获奖学生名单》
 http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_cwysj/cwysj_xszz/
-[11]教育部：2009~2018年《中国教育统计年鉴》
+[11]教育部：2009-2018年《中国教育统计年鉴》
 http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_zwgk/zwgk_jytj/
 [12]FEDERAL RESERVE BANK OF NEW YORK：QUARTERLY REPORT ON HOUSEHOLD DEBT AND CREDIT https://www.newyorkfed.org/microeconomics/hhdc.html
-[13]河南省教育厅：2011~2018年度《河南省教育厅 河南省财政厅关于全省高校年度国家助学贷款风险补偿金结余奖励与超额分担情况的通报》http://soso1.haedu.gov.cn/hadoe.htm
+[13]河南省教育厅：2011-2018年度《河南省教育厅 河南省财政厅关于全省高校年度国家助学贷款风险补偿金结余奖励与超额分担情况的通报》http://soso1.haedu.gov.cn/hadoe.htm
 
 <details>
 # wow9（week9）
