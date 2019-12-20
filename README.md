@@ -84,42 +84,62 @@
 #### 数据来源：
 [1]全国学生资助管理中心：2007-2018年《中国学生资助发展报告》
 http://www.xszz.cee.edu.cn/index.php/lists/70.html
-[2]国家开发银行：2010~2018年《国家开发银行年报》
+
+[2]国家开发银行：2010-2018年《国家开发银行年报》
 http://www.cdb.com.cn/gykh/ndbg_jx/2018_jx/
+
 [3]人民日报：《中国学生资助70年》http://paper.people.com.cn/rmrb/html/2019-09/23/nbs.D110000renmrb_19.htm 
+
 [4]潘杨,武好明,黄海.国家助学贷款违约率问题及对策研究[J].电子科技大学学报(社科版),2010,12(03):105-108.
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=DKJB201003027&v=MDgyMjFTYkJiTEc0SDlITXJJOUhZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVplUnVGaW5tVmJ2Tkk=
-[5]教育部：2010~2018年《本专科生国家奖学金获奖学生名单》
+
+[5]教育部：2010-2018年《本专科生国家奖学金获奖学生名单》
 http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_cwysj/cwysj_xszz/
-[6]教育部：2009~2018年《中国教育统计年鉴》
+
+[6]教育部：2009-2018年《中国教育统计年鉴》
 http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_zwgk/zwgk_jytj/
+
 [7]FEDERAL RESERVE BANK OF NEW YORK：QUARTERLY REPORT ON HOUSEHOLD DEBT AND CREDIT https://www.newyorkfed.org/microeconomics/hhdc.html
-[8]河南省教育厅：2011~2018年度《河南省教育厅 河南省财政厅关于全省高校年度国家助学贷款风险补偿金结余奖励与超额分担情况的通报》http://soso1.haedu.gov.cn/hadoe.htm
+
+[8]河南省教育厅：2011-2018年度《河南省教育厅 河南省财政厅关于全省高校年度国家助学贷款风险补偿金结余奖励与超额分担情况的通报》http://soso1.haedu.gov.cn/hadoe.htm
+
 [9]北京市学生资助事务管理中心
 
 #### 参考资料：
 [1]全国学生资助管理中心：2007~2018年《中国学生资助发展报告》
 http://www.xszz.cee.edu.cn/index.php/lists/70.html
+
 [2]国家开发银行：2010-2018年《国家开发银行年报》
 http://www.cdb.com.cn/gykh/ndbg_jx/2018_jx/
+
 [3]中国人民银行：《2018年中国人民银行年报》
 http://www.pbc.gov.cn/chubanwu/114566/115296/index.html
+
 [4]中国银行：《2018年中国银行年报》
 https://www.boc.cn/investor/ir5/201803/t20180329_11859718.html
-[5]人民日报：《中国学生资助70年》http://paper.people.com.cn/rmrb/html/2019-09/23/nbs.D110000renmrb_19.htm 
+
+[5]人民日报：《中国学生资助70年》http://paper.people.com.cn/rmrb/html/2019-09/23/nbs.D110000renmrb_19.htm
+
 [6]潘杨,武好明,黄海.国家助学贷款违约率问题及对策研究[J].电子科技大学学报(社科版),2010,12(03):105-108.
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=DKJB201003027&v=MDgyMjFTYkJiTEc0SDlITXJJOUhZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVplUnVGaW5tVmJ2Tkk=
+
 [7]刘小荧. 商业银行国家助学贷款风险评估及控制研究[D].湖北工业大学,2019.
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019849700.nh&v=MzI0MThSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVJ1Rmlqa1U3M0xWRjI2Rjd1OEY5Yk1yNUViUEk=
+
 [8]张博.美国高校学生资助政策的研究及启示[J].科教文汇(中旬刊),2017(09):126-127.
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=KJWZ201709058&v=MTMwOTk4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVplUnVGaWprVTc3T0xpZmNkTEc0SDliTXBvOUFiSVI=
+
 [9]宋振,翟居怀.主体行为视角下河南国家助学贷款“双轮驱动”模式运行策略[J].征信,2019,37(09):85-88.
 https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=HNJG201909017&v=MTc2OTF1RmlubVY3elBMU1BCYWJHNEg5ak1wbzlFWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=
+
 [10]教育部：2010-2018年《本专科生国家奖学金获奖学生名单》
 http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_cwysj/cwysj_xszz/
+
 [11]教育部：2009-2018年《中国教育统计年鉴》
 http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_zwgk/zwgk_jytj/
+
 [12]FEDERAL RESERVE BANK OF NEW YORK：QUARTERLY REPORT ON HOUSEHOLD DEBT AND CREDIT https://www.newyorkfed.org/microeconomics/hhdc.html
+
 [13]河南省教育厅：2011-2018年度《河南省教育厅 河南省财政厅关于全省高校年度国家助学贷款风险补偿金结余奖励与超额分担情况的通报》http://soso1.haedu.gov.cn/hadoe.htm
 
 <details>
